@@ -1,5 +1,5 @@
-📊 Lending Club Loan Data – Exploratory Data Analysis (EDA)
-📌 Project Overview
+# 📊 Lending Club Loan Data – Exploratory Data Analysis (EDA)
+### 📌 Project Overview
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on the Lending Club loan dataset to understand borrower behavior, loan characteristics, and factors influencing loan default and risk.
 
@@ -13,7 +13,7 @@ Generate actionable insights useful for credit risk assessment and business deci
 
 This repository is designed to be educational for beginners and professionally structured for recruiters and analysts.
 
-🧠 Business Context
+### 🧠 Business Context
 
 Lending Club is a peer-to-peer lending platform that connects borrowers with investors.
 Incorrect credit risk assessment can lead to:
